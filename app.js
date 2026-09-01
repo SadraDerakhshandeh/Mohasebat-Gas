@@ -281,7 +281,7 @@ document.addEventListener('DOMContentLoaded',function(){
   const panel=document.getElementById('supportCardNumber');
   const copyBtn=document.getElementById('copyCardNumber');
   const status=document.getElementById('copyCardStatus');
-  const card='6037-9981-3582-1238';
+  const card='6037998135821238';
   if(supportBtn && panel){
     supportBtn.addEventListener('click',()=>panel.classList.toggle('hidden'));
   }
